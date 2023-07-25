@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi There 👋
 
 # 💫 About Me:
 🔭 I’m currently working on ALX AirBnB clone <br>👯 I’m looking to collaborate on ElimuPal Institution ERP software<br>🤝 I’m looking for help with Python - JSON Serialization / Deserialization<br>🌱 I’m currently learning Python Web scraping & RESTful API <br>💬 Ask me about Software Engineering<br>⚡ Fun fact Music goes so well with coding
